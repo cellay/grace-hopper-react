@@ -1,0 +1,44 @@
+
+.infobox {
+  border: 1px solid #B4BBC8;
+  background-color: #f9f9f9;
+  color: #000;
+  clear: right;
+  float: right;
+  font-size: 90%;
+  line-height: 1.4em;
+  text-align:left;
+}
+
+.article {
+  display: flex;
+  flex-direction: row;
+}
+
+main {
+  text-align: justify;
+  width: 50vw;
+}
+
+aside {
+  width:45vw;
+}
+
+.title {
+  text-align:center;
+  background-color:transparent;
+  color:black;
+  background-color:#c0c0c0;
+  color:#000
+}
+
+.card {
+  text-align:center;
+  padding:0.2em;
+  line-height:1.3em;
+  vertical-align:middle
+}
+
+image {
+  width: 100%;
+}
